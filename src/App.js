@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <p>APP</p>
+    <h1>Breaking Bad</h1>
   );
 }
 
